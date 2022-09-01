@@ -1,0 +1,784 @@
+[
+  {
+    "name": "Anrakyr The Traveller",
+    "m": "6",
+    "ws": "2+",
+    "bs": "2+",
+    "s": "6",
+    "t": "5",
+    "w": "6",
+    "a": "4",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Tachyon arrow",
+      "Warscythe"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "My Will Be Done",
+      "Relentless March (Aura)",
+      "Phase Shifter",
+      "Lord of the Pyrrhian Legions (Aura)",
+      "Mind in the Machine",
+      "Implacable Conqueror (Aura)"
+    ]
+  },
+  {
+    "name": "Necron Warriors",
+    "m": "5",
+    "ws": "3+",
+    "bs": "3+",
+    "s": "4",
+    "t": "4",
+    "w": "1",
+    "a": "1",
+    "ld": "10",
+    "save": "4+",
+    "weapons": [
+      "Gauss flayer",
+      "Gauss reaper"
+    ],
+    "rules": [
+      "Reanimation Protocols",
+      "Command Protocols",
+      "Their Number is Legion"
+    ]
+  },
+  {
+    "name": "Chronomancer",
+    "m": "8",
+    "ws": "3+",
+    "bs": "3+",
+    "s": "4",
+    "t": "4",
+    "w": "4",
+    "a": "1",
+    "ld": "10",
+    "save": "4+",
+    "weapons": [
+      "Aeonstave (shooting)",
+      "Entropic lance (shooting)",
+      "Aeonstave (melee)",
+      "Chronotendrils",
+      "Entropic lance (melee)"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Dynastic Advisors",
+      "Timesplinter Mantle",
+      "Chronometron"
+    ]
+  },
+  {
+    "name": "Illuminor Szeras",
+    "m": "8",
+    "ws": "3+",
+    "bs": "3+",
+    "s": "6",
+    "t": "6",
+    "w": "7",
+    "a": "4",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Eldritch Lance (shooting)",
+      "Eldritch Lance (melee)",
+      "Impaling legs"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Rites of Reanimation",
+      "Empyric Overcharger (Aura)",
+      "Atomic Energy Manipulator",
+      "Mechanical Augmentation",
+      "Illuminor"
+    ]
+  },
+  {
+    "name": "Lord",
+    "m": "6",
+    "ws": "3+",
+    "bs": "3+",
+    "s": "5",
+    "t": "5",
+    "w": "4",
+    "a": "3",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Staff of light (shooting)",
+      "Staff of light (melee)",
+      "Hyperphase sword",
+      "Voidblade",
+      "Warscythe",
+      "Resurrection Orb"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "The Lord’s Will",
+      "Relentless March (Aura)"
+    ]
+  },
+  {
+    "name": "Overlord",
+    "m": "6",
+    "ws": "2+",
+    "bs": "2+",
+    "s": "5",
+    "t": "5",
+    "w": "4",
+    "a": "4",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Staff of light (shooting)",
+      "Tachyon arrow",
+      "Hyperphase glaive",
+      "Hyperphase sword",
+      "Staff of light (melee)",
+      "Voidblade",
+      "Voidscythe",
+      "Warscythe",
+      "Resurrection Orb"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Relentless March (Aura)",
+      "Phase Shifter",
+      "My Will Be Done"
+    ]
+  },
+  {
+    "name": "Plasmancer",
+    "m": "5",
+    "ws": "3+",
+    "bs": "3+",
+    "s": "4",
+    "t": "4",
+    "w": "4",
+    "a": "1",
+    "ld": "10",
+    "save": "4+",
+
+    "weapons": [
+      "Plasmic lance (shooting)",
+      "Plasmic lance (melee)"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Living Lightning",
+      "Harbinger of Destruction",
+      "Dynastic Advisors"
+    ]
+  },
+  {
+    "name": "Psychomancer",
+    "m": "5",
+    "ws": "3+",
+    "bs": "3+",
+    "s": "4",
+    "t": "4",
+    "w": "4",
+    "a": "1",
+    "ld": "10",
+    "save": "4+",
+    "weapons": [
+      "Abyssal lance (shooting)",
+      "Abyssal lance (melee)"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Dynastic Advisors",
+      "Harbinger of Despair",
+      "Nightmare Shroud (Aura)"
+    ]
+  },
+  {
+    "name": "Royal Warden",
+    "m": "6",
+    "ws": "3+",
+    "bs": "3+",
+    "s": "5",
+    "t": "5",
+    "w": "4",
+    "a": "3",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Relic gauss blaster"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Adaptive Strategy",
+      "Relentless March (Aura)"
+    ]
+  },
+  {
+    "name": "Trazyn the Infinite",
+    "m": "6",
+    "ws": "2+",
+    "bs": "2+",
+    "s": "5",
+    "t": "5",
+    "w": "6",
+    "a": "4",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Empathic Obliterator"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Phase Shifter",
+      "My Will Be Done",
+      "Ancient Collector",
+      "Surrogate Hosts",
+      "Relentless March (Aura)"
+    ]
+  },
+  {
+    "name": "Immortal",
+    "m": "5",
+    "ws": "3+",
+    "bs": "3+",
+    "s": "4",
+    "t": "5",
+    "w": "1",
+    "a": "2",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Gauss blaster",
+      "Tesla carbine"
+    ],
+    "rules": [
+      "Reanimation Protocols",
+      "Command Protocols"
+    ]
+  },
+  {
+    "name": "Ghost Ark 8-14",
+    "m": "12",
+    "ws": "6+",
+    "bs": "3+",
+    "s": "6",
+    "t": "6",
+    "w": "8-14",
+    "a": "3",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Gauss flayer array"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Quantum Shielding",
+      "Hovering",
+      "Repair Barge",
+      "Explodes"
+    ]
+  },
+  {
+    "name": "Ghost Ark 4-7",
+    "m": "8",
+    "ws": "6+",
+    "bs": "4+",
+    "s": "6",
+    "t": "6",
+    "w": "4-7",
+    "a": "D3",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Gauss flayer array"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Quantum Shielding",
+      "Hovering",
+      "Repair Barge",
+      "Explodes"
+    ]
+  },
+  {
+    "name": "Ghost Ark 1-3",
+    "m": "4",
+    "ws": "6+",
+    "bs": "5+",
+    "s": "6",
+    "t": "6",
+    "w": "1-3",
+    "a": "1",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Gauss flayer array"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Quantum Shielding",
+      "Hovering",
+      "Repair Barge",
+      "Explodes"
+    ]
+  },
+  {
+    "name": "C'tan Shard of the Nightbringer",
+    "m": "8",
+    "ws": "2+",
+    "bs": "2+",
+    "s": "7",
+    "t": "7",
+    "w": "9",
+    "a": "6",
+    "ld": "10",
+    "save": "4+",
+    "weapons": [
+      "Scythe of the Nightbringer - Reaping sweep",
+      "Scythe of the Nightbringer - Entropic blow"
+    ],
+    "rules": [
+      "Living Metal",
+      "Necrodermis",
+      "Enslaved Star God",
+      "Reality Unravels",
+      "Drain Life",
+      "C'TAN - GAZE OF DEATH",
+      "C'TAN - ANTIMATTER METEOR",
+      "C'TAN - TIME’S ARROW",
+      "C'TAN - SKY OF FALLING STARS",
+      "C'TAN - COSMIC FIRE",
+      "C'TAN - SEISMIC ASSAULT",
+      "C'TAN - TRANSDIMENSIONAL THUNDERBOLT"
+    ]
+  },
+  {
+    "name": "C'tan Shard of the Void Dragon",
+    "m": "8",
+    "ws": "2+",
+    "bs": "2+",
+    "s": "6",
+    "t": "7",
+    "w": "9",
+    "a": "5",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Spear of the Void Dragon (shooting)",
+      "Canoptek tail blades",
+      "Spear of the Void Dragon (melee)"
+    ],
+    "rules": [
+      "Living Metal",
+      "Necrodermis",
+      "Enslaved Star God",
+      "Reality Unravels",
+      "Matter Absorption",
+      "C'TAN - VOLTAIC STORM",
+      "C'TAN - ANTIMATTER METEOR",
+      "C'TAN - TIME’S ARROW",
+      "C'TAN - SKY OF FALLING STARS",
+      "C'TAN - COSMIC FIRE",
+      "C'TAN - SEISMIC ASSAULT",
+      "C'TAN - TRANSDIMENSIONAL THUNDERBOLT"
+    ]
+  },
+  {
+    "name": "Canoptek Plasmacyte",
+    "m": "8",
+    "ws": "4+",
+    "bs": "4+",
+    "s": "4",
+    "t": "5",
+    "w": "1",
+    "a": "1",
+    "ld": "10",
+    "save": "4+",
+    "weapons": [
+      "Monomolecular proboscis"
+    ],
+    "rules": [
+      "Dimensional Translocation",
+      "Command Protocols",
+      "Viral Construct",
+      "Evasion Protocol",
+      "Recall Protocol",
+      "Infused Madness"
+    ]
+  },
+  {
+    "name": "Canoptek Reanimator",
+    "m": "8",
+    "ws": "4+",
+    "bs": "4+",
+    "s": "5",
+    "t": "5",
+    "w": "6",
+    "a": "4",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Atomiser beam",
+      "Reanimator’s claws"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Explodes",
+      "Nanoscarab Reanimation Beam (Aura)"
+    ]
+  },
+  {
+    "name": "Canoptek Spyder",
+    "m": "6",
+    "ws": "4+",
+    "bs": "4+",
+    "s": "6",
+    "t": "6",
+    "w": "6",
+    "a": "5",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Particle beamer",
+      "Automaton claws"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Reanimation Protocols",
+      "Explodes",
+      "Scarab Hive"
+    ]
+  },
+  {
+    "name": "Deathmarks",
+    "m": "5",
+    "ws": "3+",
+    "bs": "2+",
+    "s": "4",
+    "t": "5",
+    "w": "1",
+    "a": "1",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Synaptic disintegrator"
+    ],
+    "rules": [
+      "Reanimation Protocols",
+      "Command Protocols",
+      "Dimensional Translocation"
+    ]
+  },
+  {
+    "name": "Flayed One",
+    "m": "5",
+    "ws": "3+",
+    "bs": "6+",
+    "s": "4",
+    "t": "4",
+    "w": "1",
+    "a": "3",
+    "ld": "10",
+    "save": "4+",
+    "weapons": [
+      "Flayer claws"
+    ],
+    "rules": [
+      "Reanimation Protocols",
+      "Command Protocols",
+      "Dimensional Translocation",
+      "Flesh Hunger",
+      "Terrifying Foes (Aura)"
+    ]
+  },
+  {
+    "name": "Hexmark Destroyer",
+    "m": "8",
+    "ws": "3+",
+    "bs": "2+",
+    "s": "5",
+    "t": "5",
+    "w": "5",
+    "a": "4",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Enmitic disintegrator pistol"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Dimensional Translocation",
+      "Inescapable Death",
+      "Multi-threat Eliminator",
+      "Hardwired for Destruction"
+    ]
+  },
+  {
+    "name": "Skorpekh Destroyer",
+    "m": "8",
+    "ws": "3+",
+    "bs": "3+",
+    "s": "5",
+    "t": "5",
+    "w": "3",
+    "a": "3",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Hyperphase reap-blade",
+      "Hyperphase threshers"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Reanimation Protocols",
+      "Hardwired for Destruction"
+    ]
+  },
+  {
+    "name": "Canoptek Scarab Swarm",
+    "m": "10",
+    "ws": "4+",
+    "bs": "-",
+    "s": "3",
+    "t": "3",
+    "w": "4",
+    "a": "4",
+    "ld": "10",
+    "save": "6+",
+    "weapons": [
+      "Feeder mandibles"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Reanimation Protocols"
+    ]
+  },
+  {
+    "name": "Silent King 9-16",
+    "m": "8",
+    "ws": "2+",
+    "bs": "2+",
+    "s": "5",
+    "t": "7",
+    "w": "9-16",
+    "a": "6",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Annihilator beam",
+      "Sceptre of Eternal Glory (shooting)",
+      "Staff of Stars (shooting)",
+      "Sceptre of Eternal Glory (melee)",
+      "Scythe of Dust",
+      "Staff of Stars (melee)"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Noctilith Beacons",
+      "Obeisance Generators",
+      "Phaeron of the Stars (Aura)",
+      "Phaeron of the Blades (Aura)",
+      "Relentless March (Aura)",
+      "My Will Be Done",
+      "Phaeron",
+      "Voice of the Triarch",
+      "Triarchal Menhir",
+      "The Silent King",
+      "Transtemporal Force Field",
+      "Preservative Auto-torpor",
+      "Vengeance of the Enchained"
+    ]
+  },
+  {
+    "name": "Silent King 5-8",
+    "m": "6",
+    "ws": "2+",
+    "bs": "2+",
+    "s": "5",
+    "t": "7",
+    "w": "5-8",
+    "a": "4",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Annihilator beam",
+      "Sceptre of Eternal Glory (shooting)",
+      "Staff of Stars (shooting)",
+      "Sceptre of Eternal Glory (melee)",
+      "Scythe of Dust",
+      "Staff of Stars (melee)"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Noctilith Beacons",
+      "Obeisance Generators",
+      "Phaeron of the Stars (Aura)",
+      "Phaeron of the Blades (Aura)",
+      "Relentless March (Aura)",
+      "My Will Be Done",
+      "Phaeron",
+      "Voice of the Triarch",
+      "Triarchal Menhir",
+      "The Silent King",
+      "Transtemporal Force Field",
+      "Preservative Auto-torpor",
+      "Vengeance of the Enchained"
+    ]
+  },
+  {
+    "name": "Silent King 1-4",
+    "m": "4",
+    "ws": "2+",
+    "bs": "2+",
+    "s": "5",
+    "t": "7",
+    "w": "1-4",
+    "a": "2",
+    "ld": "10",
+    "save": "3+",
+    "weapons": [
+      "Annihilator beam",
+      "Sceptre of Eternal Glory (shooting)",
+      "Staff of Stars (shooting)",
+      "Sceptre of Eternal Glory (melee)",
+      "Scythe of Dust",
+      "Staff of Stars (melee)"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Noctilith Beacons",
+      "Obeisance Generators",
+      "Phaeron of the Stars (Aura)",
+      "Phaeron of the Blades (Aura)",
+      "Relentless March (Aura)",
+      "My Will Be Done",
+      "Phaeron",
+      "Voice of the Triarch",
+      "Triarchal Menhir",
+      "The Silent King",
+      "Transtemporal Force Field",
+      "Preservative Auto-torpor",
+      "Vengeance of the Enchained"
+    ]
+  },
+  {
+    "name": "Triarchal Menhir",
+    "m": "8",
+    "ws": "6+",
+    "bs": "2+",
+    "s": "5",
+    "t": "7",
+    "w": "5",
+    "a": "1",
+    "ld": "10",
+    "save": "3+",
+    "weapons": ["-"],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Noctilith Beacons",
+      "Obeisance Generators",
+      "Phaeron of the Stars (Aura)",
+      "Phaeron of the Blades (Aura)",
+      "Relentless March (Aura)",
+      "My Will Be Done",
+      "Phaeron",
+      "Voice of the Triarch",
+      "Triarchal Menhir",
+      "The Silent King",
+      "Transtemporal Force Field",
+      "Preservative Auto-torpor",
+      "Vengeance of the Enchained"
+    ]
+  },
+  {
+    "name": "Convergence of Dominion 6-10",
+    "m": "",
+    "ws": "-",
+    "bs": "3+",
+    "s": "6",
+    "t": "8",
+    "w": "6-10",
+    "a": "-",
+    "ld": "-",
+    "save": "3+",
+    "weapons": [
+      "Transdimensional abductor"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Convergence of Dominion",
+      "Dominion Protocols (Aura)",
+      "Dynastic Command Node",
+      "Translocation Protocols"
+    ]
+  },
+  {
+    "name": "Convergence of Dominion 3-5",
+    "m": "",
+    "ws": "-",
+    "bs": "4+",
+    "s": "6",
+    "t": "8",
+    "w": "3-5",
+    "a": "-",
+    "ld": "-",
+    "save": "3+",
+    "weapons": [
+      "Transdimensional abductor"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Convergence of Dominion",
+      "Dominion Protocols (Aura)",
+      "Dynastic Command Node",
+      "Translocation Protocols"
+    ]
+  },
+  {
+    "name": "Convergence of Dominion 1-2",
+    "m": "",
+    "ws": "-",
+    "bs": "5+",
+    "s": "6",
+    "t": "8",
+    "w": "1-2",
+    "a": "-",
+    "ld": "-",
+    "save": "3+",
+    "weapons": [
+      "Transdimensional abductor"
+    ],
+    "rules": [
+      "Living Metal",
+      "Command Protocols",
+      "Convergence of Dominion",
+      "Dominion Protocols (Aura)",
+      "Dynastic Command Node",
+      "Translocation Protocols"
+    ]
+  }
+]

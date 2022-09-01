@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <SearchView
+                android:id="@+id/search_bar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/green"
+                android:theme="@style/Theme.WahaPlayer.DarkSearchViewTheme"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="1dp" >
+
+            </SearchView>
+
+
+            <ImageView
+                android:id="@+id/search_divider"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/divider" />
+
+            <LinearLayout
+                android:id="@+id/search_models"
+                android:divider="@drawable/divider"
+                android:showDividers="middle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/search_divider"
+                android:orientation="vertical" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

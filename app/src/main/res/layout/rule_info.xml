@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".UI.AbilityInfo"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:id = "@+id/rule_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginBottom="10dp">
+
+        <com.bruh.wahaplayer.UI.Typewriter
+            android:id="@+id/rule_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="@color/green"
+            android:layout_marginBottom="5dp"
+            android:textSize="18sp"
+            android:text="Name" />
+
+        <com.bruh.wahaplayer.UI.Typewriter
+            android:id="@+id/rule_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginStart="5dp"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/purple_500"
+            android:text="Description" />
+
+        <com.bruh.wahaplayer.UI.Typewriter
+            android:id="@+id/rule_models"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/green"
+            android:text="Models" />
+    </LinearLayout>
+
+</RelativeLayout>

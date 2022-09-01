@@ -1,0 +1,1028 @@
+[
+  {
+    "name": "Abyssal lance (shooting)",
+    "range": "18",
+    "type": "Assault 3",
+    "s": "4",
+    "ap": "-3",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Aeonstave (shooting)",
+    "range": "18",
+    "type": "Assault D3",
+    "s": "5",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "Blast. Each time an attack is made with this weapon, invulnerable saving throws cannot be taken against that attack."
+  },
+  {
+    "name": "Annihilator beam",
+    "range": "36",
+    "type": "Heavy 1",
+    "s": "12",
+    "ap": "-4",
+    "d": "6",
+    "abilities": "-"
+  },
+  {
+    "name": "Atomiser beam",
+    "range": "12",
+    "type": "Assault 3",
+    "s": "6",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Cutting beam",
+    "range": "12",
+    "type": "Assault 1",
+    "s": "8",
+    "ap": "-4",
+    "d": "D6",
+    "abilities": "Each time an attack made with this weapon targets a unit within half range, that attack has a Damage characteristic of D6+2."
+  },
+  {
+    "name": "Death ray",
+    "range": "24",
+    "type": "Heavy 1",
+    "s": "9",
+    "ap": "-3",
+    "d": "D3+3",
+    "abilities": "-"
+  },
+  {
+    "name": "Doomsday blaster - Low power",
+    "range": "24",
+    "type": "Heavy D6",
+    "s": "8",
+    "ap": "-2",
+    "d": "D3",
+    "abilities": "Blast"
+  },
+  {
+    "name": "Doomsday blaster - High power",
+    "range": "48",
+    "type": "Heavy D6",
+    "s": "10",
+    "ap": "-5",
+    "d": "D6",
+    "abilities": "Blast. The bearer can only make attacks with this profile if it Remained Stationary during its previous Movement phase."
+  },
+  {
+    "name": "Doomsday cannon - Low power",
+    "range": "36",
+    "type": "Heavy D6",
+    "s": "8",
+    "ap": "-2",
+    "d": "D3",
+    "abilities": "Blast"
+  },
+  {
+    "name": "Doomsday cannon - High power",
+    "range": "72",
+    "type": "Heavy D6",
+    "s": "10",
+    "ap": "-5",
+    "d": "D6",
+    "abilities": "Blast. The bearer can only make attacks with this profile if it Remained Stationary during its previous Movement phase."
+  },
+  {
+    "name": "Eldritch Lance (shooting)",
+    "range": "36",
+    "type": "Assault D3",
+    "s": "8",
+    "ap": "-4",
+    "d": "D6",
+    "abilities": "-"
+  },
+  {
+    "name": "Enmitic annihilator",
+    "range": "18",
+    "type": "Assault 2D3",
+    "s": "6",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "Blast"
+  },
+  {
+    "name": "Enmitic disintegrator pistol",
+    "range": "18",
+    "type": "Pistol 1",
+    "s": "6",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Enmitic exterminator",
+    "range": "36",
+    "type": "Heavy 3D3",
+    "s": "7",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "Blast"
+  },
+  {
+    "name": "Entropic lance (shooting)",
+    "range": "18",
+    "type": "Assault 1",
+    "s": "8",
+    "ap": "-3",
+    "d": "D3+3",
+    "abilities": "-"
+  },
+  {
+    "name": "Exile cannon",
+    "range": "18",
+    "type": "Heavy D6",
+    "s": "10",
+    "ap": "-4",
+    "d": "3",
+    "abilities": "Blast"
+  },
+  {
+    "name": "Focused death ray",
+    "range": "36",
+    "type": "Heavy 1",
+    "s": "12",
+    "ap": "-4",
+    "d": "D3+3",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauntlet of fire",
+    "range": "12",
+    "type": "Assault D6",
+    "s": "5",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, that attack automatically hits the target."
+  },
+  {
+    "name": "Gauss annihilator - Focused beam",
+    "range": "120",
+    "type": "Heavy 2D3",
+    "s": "16",
+    "ap": "-4",
+    "d": "D3+6",
+    "abilities": "Blast. Each time an attack is made with this weapon against an AIRCRAFT unit, add 2 to that attack's hit roll."
+  },
+  {
+    "name": "Gauss annihilator - Flux arc",
+    "range": "30",
+    "type": "Rapid Fire 6",
+    "s": "6",
+    "ap": "-2",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauss blaster",
+    "range": "30",
+    "type": "Rapid Fire 1",
+    "s": "5",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauss cannon",
+    "range": "24",
+    "type": "Heavy 3",
+    "s": "6",
+    "ap": "-3",
+    "d": "D3",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauss destructor",
+    "range": "36",
+    "type": "Heavy 1",
+    "s": "10",
+    "ap": "-4",
+    "d": "3D3",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauss exterminator",
+    "range": "48",
+    "type": "Heavy 2",
+    "s": "8",
+    "ap": "-3",
+    "d": "D6",
+    "abilities": "Each time an attack is made with this weapon against an AIRCRAFT unit, add 2 to that attack's hit roll."
+  },
+  {
+    "name": "Gauss exterminator (Tomb Citadel Walls)",
+    "range": "48",
+    "type": "Heavy 2",
+    "s": "9",
+    "ap": "-3",
+    "d": "2D3",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauss flayer",
+    "range": "24",
+    "type": "Rapid Fire 1",
+    "s": "4",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauss flayer array",
+    "range": "24",
+    "type": "Rapid Fire 5",
+    "s": "4",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauss flux arc",
+    "range": "30",
+    "type": "Rapid Fire 3",
+    "s": "5",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauss reaper",
+    "range": "12",
+    "type": "Assault 2",
+    "s": "5",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Gauss slicers",
+    "range": "24",
+    "type": "Rapid Fire 2",
+    "s": "5",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Heat cannon",
+    "range": "36",
+    "type": "Heavy D6",
+    "s": "8",
+    "ap": "-4",
+    "d": "D6",
+    "abilities": "Each time an attack made with this weapon targets a unit within half range, that attack has a Damage characteristic of D6+2."
+  },
+  {
+    "name": "Heat ray - Dispersed",
+    "range": "12",
+    "type": "Heavy 2D6",
+    "s": "5",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, that attack automatically hits the target."
+  },
+  {
+    "name": "Heat ray - Focused",
+    "range": "24",
+    "type": "Heavy 2",
+    "s": "8",
+    "ap": "-4",
+    "d": "D6",
+    "abilities": "Each time an attack made with this weapon targets a unit within half range, that attack has a Damage characteristic of D6+2."
+  },
+  {
+    "name": "Heavy death ray",
+    "range": "36",
+    "type": "Heavy 3",
+    "s": "12",
+    "ap": "-4",
+    "d": "D3+3",
+    "abilities": "-"
+  },
+  {
+    "name": "Particle beamer",
+    "range": "18",
+    "type": "Assault 6",
+    "s": "5",
+    "ap": "0",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Particle caster",
+    "range": "12",
+    "type": "Pistol 2",
+    "s": "6",
+    "ap": "0",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Particle shredder",
+    "range": "24",
+    "type": "Heavy 8",
+    "s": "6",
+    "ap": "-1",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Particle whip",
+    "range": "36",
+    "type": "Heavy D6",
+    "s": "12",
+    "ap": "-3",
+    "d": "3",
+    "abilities": "Blast"
+  },
+  {
+    "name": "Plasmic lance (shooting)",
+    "range": "18",
+    "type": "Assault D3",
+    "s": "7",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Relic gauss blaster",
+    "range": "30",
+    "type": "Rapid Fire 2",
+    "s": "5",
+    "ap": "-2",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Rod of covenant (shooting)",
+    "range": "12",
+    "type": "Assault 1",
+    "s": "5",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Sceptre of Eternal Glory (shooting)",
+    "range": "24",
+    "type": "Assault 3",
+    "s": "8",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Scouring eye",
+    "range": "12",
+    "type": "Pistol 2",
+    "s": "5",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Singularity generator",
+    "range": "36",
+    "type": "Heavy 3D3",
+    "s": "8",
+    "ap": "-3",
+    "d": "D6",
+    "abilities": "Blast"
+  },
+  {
+    "name": "Spear of the Void Dragon (shooting)",
+    "range": "12",
+    "type": "Heavy 1",
+    "s": "9",
+    "ap": "-4",
+    "d": "D6",
+    "abilities": "Each time an attack is made with this weapon, if a hit is scored, draw a straight line between the closest point of this model's base (or hull) and that of the closest model in the target unit. Make one wound roll against the target unit, and each other unit this line passes over. Each time an attack made with this weapon is allocated to a VEHICLE model, that attack hs a Damage characteristic of D3+3."
+  },
+  {
+    "name": "Staff of light (shooting)",
+    "range": "18",
+    "type": "Assault 3",
+    "s": "5",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Staff of Stars (shooting)",
+    "range": "24",
+    "type": "Assault 9",
+    "s": "6",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Staff of the Destroyer (shooting)",
+    "range": "18",
+    "type": "Assault 3",
+    "s": "6",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Synaptic disintegrator",
+    "range": "36",
+    "type": "Heavy 1",
+    "s": "5",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "Each time you select a target for this weapon, you can ignore the Look Out, Sir rule. Each time an attack is made with this weapon, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage."
+  },
+  {
+    "name": "Synaptic obliterator",
+    "range": "72",
+    "type": "Heavy D3",
+    "s": "16",
+    "ap": "-4",
+    "d": "6",
+    "abilities": "-"
+  },
+  {
+    "name": "Tachyon arrow",
+    "range": "120",
+    "type": "Assault 1",
+    "s": "12",
+    "ap": "-5",
+    "d": "D6",
+    "abilities": "The bearer can only shoot with this weapon once per battle."
+  },
+  {
+    "name": "Tesla arc",
+    "range": "3",
+    "type": "Assault 3D6",
+    "s": "4",
+    "ap": "0",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, an unmodified hit roll of 6 scores 2 additional hits."
+  },
+  {
+    "name": "Tesla cannon",
+    "range": "30",
+    "type": "Heavy 3",
+    "s": "6",
+    "ap": "0",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, an unmodified hit roll of 6 scores 2 additional hits."
+  },
+  {
+    "name": "Tesla carbine",
+    "range": "24",
+    "type": "Assault 2",
+    "s": "5",
+    "ap": "0",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, an unmodified hit roll of 6 scores 2 additional hits."
+  },
+  {
+    "name": "Tesla destructor (Tomb Citadel Walls)",
+    "range": "36",
+    "type": "Heavy 5",
+    "s": "7",
+    "ap": "0",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, an unmodified hit roll of 6 scores 2 additional hits."
+  },
+  {
+    "name": "Tesla sphere",
+    "range": "24",
+    "type": "Assault 4",
+    "s": "7",
+    "ap": "0",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, an unmodified hit roll of 6 scores 2 additional hits."
+  },
+  {
+    "name": "Tesseract singularity chamber - Particle hurricane",
+    "range": "12",
+    "type": "Assault D6",
+    "s": "4",
+    "ap": "-3",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, that attack automatically hits the target, and a wound roll of 2+ is always successful, unless the target is a VEHICLE, then a wound roll of 6 is always successful."
+  },
+  {
+    "name": "Tesseract singularity chamber - Seismic lash",
+    "range": "24",
+    "type": "Assault D6",
+    "s": "5",
+    "ap": "-3",
+    "d": "3",
+    "abilities": "-"
+  },
+  {
+    "name": "Tesseract singularity chamber - Solar fire",
+    "range": "36",
+    "type": "Heavy D6",
+    "s": "8",
+    "ap": "-3",
+    "d": "D6",
+    "abilities": "-"
+  },
+  {
+    "name": "Transdimensional abductor",
+    "range": "12",
+    "type": "Assault D3",
+    "s": "4",
+    "ap": "-3",
+    "d": "3",
+    "abilities": "-"
+  },
+  {
+    "name": "Transdimensional beamer",
+    "range": "12",
+    "type": "Assault 1",
+    "s": "4",
+    "ap": "-3",
+    "d": "3",
+    "abilities": "-"
+  },
+  {
+    "name": "Transdimensional projector",
+    "range": "24",
+    "type": "Heavy D6",
+    "s": "6",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "Blast"
+  },
+  {
+    "name": "Twin gauss blaster",
+    "range": "30",
+    "type": "Rapid Fire 2",
+    "s": "5",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Twin gauss flayer",
+    "range": "24",
+    "type": "Rapid Fire 2",
+    "s": "4",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Twin heavy gauss cannon",
+    "range": "30",
+    "type": "Heavy 6",
+    "s": "7",
+    "ap": "-3",
+    "d": "D3",
+    "abilities": "-"
+  },
+  {
+    "name": "Twin tesla carbine",
+    "range": "24",
+    "type": "Assault 4",
+    "s": "5",
+    "ap": "0",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, an unmodified hit roll of 6 scores 2 additional hits."
+  },
+  {
+    "name": "Twin tesla destructor",
+    "range": "36",
+    "type": "Heavy 10",
+    "s": "7",
+    "ap": "0",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, an unmodified hit roll of 6 scores 2 additional hits."
+  },
+  {
+    "name": "Abyssal lance (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Aeonstave (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, invulnerable saving throws cannot be taken against that attack."
+  },
+  {
+    "name": "Automaton claws",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+2",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Canoptek tail blades",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "Each time the bearer fights, it makes D6 additional attacks with this weapon."
+  },
+  {
+    "name": "Chronotendrils",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "0",
+    "d": "1",
+    "abilities": "Each time the bearer fights, it makes 3 additional attacks with this weapon."
+  },
+  {
+    "name": "Crackling tendrils",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-4",
+    "d": "D6",
+    "abilities": "-"
+  },
+  {
+    "name": "Eldritch Lance (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-4",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Empathic Obliterator",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+2",
+    "ap": "-1",
+    "d": "D3",
+    "abilities": "Each time an attack is made with this weapon, if a CHARACTER model is destroyed by that attack, each enemy unit within 6 of the bearer suffers D3 mortal wounds."
+  },
+  {
+    "name": "Entropic lance (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "3",
+    "abilities": "-"
+  },
+  {
+    "name": "Feeder mandibles",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "0",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, an unmodified hit roll of 6 automatically wounds the target."
+  },
+  {
+    "name": "Flayer claws",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Flensing claw",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, make 2 hit rolls instead of 1."
+  },
+  {
+    "name": "Golden fists",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "3",
+    "abilities": "-"
+  },
+  {
+    "name": "Hyperphase glaive",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+2",
+    "ap": "-3",
+    "d": "D3",
+    "abilities": "-"
+  },
+  {
+    "name": "Hyperphase harvester",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+2",
+    "ap": "-4",
+    "d": "3",
+    "abilities": "Each time an attack is made with this weapon, subtract 1 from that attack's hit roll."
+  },
+  {
+    "name": "Hyperphase reap-blade",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+2",
+    "ap": "-4",
+    "d": "3",
+    "abilities": "-"
+  },
+  {
+    "name": "Hyperphase sword",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+1",
+    "ap": "-3",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Hyperphase threshers",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "Each time the bearer fights, it makes 1 additional attack with this weapon."
+  },
+  {
+    "name": "Impaling legs",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "Each time the bearer fights, it makes 2 additional attacks with this weapon."
+  },
+  {
+    "name": "Monomolecular proboscis",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Obsidax",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+1",
+    "ap": "-3",
+    "d": "3",
+    "abilities": "-"
+  },
+  {
+    "name": "Ophydian claws",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "Each time the bearer fights, it makes 2 additional attacks with this weapon."
+  },
+  {
+    "name": "Plasmic lance (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Portal of exile",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "3",
+    "abilities": "Each time an attack is made with this weapon, that attack automatically hits the target."
+  },
+  {
+    "name": "Reanimator’s claws",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Rod of covenant (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Sceptre of Eternal Glory (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+4",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Scythe of Dust",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+3",
+    "ap": "-4",
+    "d": "3",
+    "abilities": "Each time the bearer fights, it makes 4 additional attacks with this weapon and no more than 4 attacks can be made with this weapon."
+  },
+  {
+    "name": "Scythe of the Nightbringer - Reaping sweep",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon profile, make 2 hit rolls instead of 1."
+  },
+  {
+    "name": "Scythe of the Nightbringer - Entropic blow",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "x2",
+    "ap": "-4",
+    "d": "D6",
+    "abilities": "Each time an attack is made with this weapon profile, invulnerable saving throws cannot be made against that attack."
+  },
+  {
+    "name": "Scythed limbs",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Spear of the Void Dragon (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+3",
+    "ap": "-4",
+    "d": "D6",
+    "abilities": "Each time an attack made with this weapon is allocated to a VEHICLE model, that attack has a Damage characteristic of D3+3."
+  },
+  {
+    "name": "Staff of light (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "-"
+  },
+  {
+    "name": "Staff of Stars (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-2",
+    "d": "1",
+    "abilities": "Each time the bearer fights, it makes 3 additional attacks with this weapon and no more than 3 attacks can be made with this weapon."
+  },
+  {
+    "name": "Staff of the Destroyer (melee)",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+1",
+    "ap": "-3",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Staff of Tomorrow",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "D3",
+    "abilities": "Each time an attack is made with this weapon, invulnerable saving throws cannot be taken against that attack."
+  },
+  {
+    "name": "Stalker's forelimbs",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-2",
+    "d": "3",
+    "abilities": "-"
+  },
+  {
+    "name": "Titanic forelimbs - Impaling strike",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "x2",
+    "ap": "-3",
+    "d": "5",
+    "abilities": "-"
+  },
+  {
+    "name": "Titanic forelimbs - Reaping sweep",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-1",
+    "d": "2",
+    "abilities": "Make 2 hit rolls for each attack made with this weapon."
+  },
+  {
+    "name": "Tomb sentinel claws",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+1",
+    "ap": "-2",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Tomb stalker claws",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+1",
+    "ap": "-2",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Vicious claws",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+2",
+    "ap": "-2",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Voidblade",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-3",
+    "d": "1",
+    "abilities": "Each time the bearer fights, it makes 1 additional attack with this weapon."
+  },
+  {
+    "name": "Voidscythe",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "x2",
+    "ap": "-4",
+    "d": "3",
+    "abilities": "Each time an attack is made with this weapon, subtract 1 from that attack's hit roll."
+  },
+  {
+    "name": "Warscythe",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "+2",
+    "ap": "-4",
+    "d": "2",
+    "abilities": "-"
+  },
+  {
+    "name": "Whip coils",
+    "range": "Mele",
+    "type": "Melee",
+    "s": "User",
+    "ap": "-1",
+    "d": "1",
+    "abilities": "Each time an attack is made with this weapon, make 2 hit rolls instead of 1."
+  },
+  {
+    "name": "-",
+    "range": "-",
+    "type": "-",
+    "s": "-",
+    "ap": "-",
+    "d": "-",
+    "abilities": "-"
+  }
+]

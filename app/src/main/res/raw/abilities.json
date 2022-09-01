@@ -1,0 +1,357 @@
+[
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Reanimation Protocols",
+    "description": "Each time a unit's reanimation protocols are enacted, make Reanimation Protocol rolls for that unit by rolling a number of D6 equal to the combined Wounds characteristics of all the reassembling models. Each Reanimation Protocol roll of 5+ is put into a pool. A Reanimation Protocol roll can never be modified by more than -1 or +1.\n\nIf the number of dice in that pool is greater than or equal to the Wounds characteristic of any of the reassembling models, select one of those models to be Reanimated. A Reanimated model:\nIs added back to its unit with its full wounds remaining.\nCan only set up within Engagement Range of enemy units that are already within Engagement Range of the Reanimated model's unit.\nCannot, if it is your Charge phase, be set up closer to any enemy units that are targets of a charge declared by its unit this phase.\nNo longer counts as having been destroyed for the purposes of Morale tests this turn.\nYou then reduce the number of dice in that pool by a number equal to the Wounds characteristic of the Reanimated model and repeat this process until either there are no more reassembling models, or the number of dice remaining in the pool is less than the Wounds characteristic of any of the reassembling models. Any models that did not Reanimate fail to reassemble, and any dice remaining in the pool are discarded."
+  },
+  {
+    "phase": "ANYTIME",
+    "name": "Command Protocols",
+    "description": "BRUH"
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Living Metal",
+    "description": "At the start of your Command phase, each model in this unit regains 1 lost wound."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "My Will Be Done",
+    "description": "In your Command phase, you can select one friendly NECRONS CORE unit within 9\" of this model. Until the start of your next Command phase, each time a model in that unit makes an attack, add 1 to that attack's hit roll. Each unit can only be selected for this ability once per phase."
+  },
+  {
+    "phase": "MOVEMENT",
+    "name": "Relentless March (Aura)",
+    "description": "While a friendly NECRONS CORE unit is within 6\" of this model, each time that unit is selected to make a Normal Move or Advance, until the end of the phase, add 1\" to the Move characteristic of models in that unit."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Phase Shifter",
+    "description": "This model has a 4+ invulnerable save."
+  },
+  {
+    "phase": "ATTACK",
+    "name": "Lord of the Pyrrhian Legions (Aura)",
+    "description": "While a friendly NECRONS CORE unit is within 6\" of this model, add 1 to the Attacks characteristic of models in that unit."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "Mind in the Machine",
+    "description": "At the start of your Shooting phase, you can select one enemy VEHICLE model that is visible to and within 12\" of this model and roll 3D6 (if the model you selected is TITANIC, roll 2D6 instead). If the result is greater than or equal to the Leadership characteristic of the selected model, you can shoot one of that model’s ranged weapons as if that model was a unit from your army, using this model’s Ballistic Skill characteristic instead of the target model’s."
+  },
+  {
+    "phase": "ATTACK",
+    "name": "Implacable Conqueror (Aura)",
+    "description": "While a friendly <DYNASTY> CORE unit is within 6\" of this WARLORD, you can re-roll charge rolls made for that unit."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Their Number is Legion",
+    "description": "Re-roll Reanimation Protocol rolls of 1 made for this unit."
+  },
+  {
+    "phase": "DEPLOYMENT",
+    "name": "Dynastic Advisors",
+    "description": "If your army is Battle-forged, then for each CRYPTEK unit (excluding DYNASTIC AGENTS units) included in a Detachment that also contains at least one NOBLE unit, a second CRYPTEK unit (excluding DYNASTIC AGENTS units) can be included in that Detachment without taking up an additional Battlefield Role slot."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Timesplinter Mantle",
+    "description": "This model has a 4+ invulnerable save."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Chronometron",
+    "description": "In your Command phase, you can select one friendly <DYNASTY> unit within 9\" of this model. Until the start of your next Command phase, you can re-roll charge rolls made for that unit and models in that unit have a 5+ invulnerable save."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Rites of Reanimation",
+    "description": "In your Command phase, you can select one friendly NECRONS CORE unit within 6\" of this model. One destroyed model from that unit is Reanimated. If the selected unit is a NECRON WARRIORS unit, D3 destroyed models from that unit are Reanimated instead. Each unit can only be selected for this ability once per phase."
+  },
+  {
+    "phase": "OPPONENT_PSYKER",
+    "name": "Empyric Overcharger (Aura)",
+    "description": "While an enemy PSYKER unit is within 12\" of this model, each time a Psychic test is taken for that unit, it suffers Perils of the Warp on any dice roll that includes a double, instead of only a double 1 or double 6."
+  },
+  {
+    "phase": "COMBAT",
+    "name": "Atomic Energy Manipulator",
+    "description": "In the Fight phase, if this model destroys one or more enemy models, then at the end of that phase it can use its Mechanical"
+  },
+  {
+    "phase": "MOVEMENT",
+    "name": "Mechanical Augmentation",
+    "description": "At the end of your Movement phase, you can select one friendly NECRONS CORE unit within 6\" of this model. If you do, roll one D3 and consult the table below:\nD3\tResult\n1\tUntil the end of the battle, add 1 to the Strength characteristic of models in that unit. \n2\tUntil the end of the battle, add 1 to the Toughness characteristic of models in that unit. \n3\tUntil the end of the battle, improve the Ballistic Skill characteristic of models in that unit by 1. \nEach unit can only be selected for this ability once per battle."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Illuminor",
+    "description": "This model can use its Rites of Reanimation ability one additional time per turn."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "The Lord’s Will",
+    "description": "In your Command phase, you can select one friendly <DYNASTY> CORE unit within 9\" of this model. Until the start of your next Command phase, each time a model in that unit makes an attack, re-roll a hit roll of 1."
+  },
+  {
+    "phase": "COMBAT",
+    "name": "Living Lightning",
+    "description": "At the start of the Fight phase, roll one D6 for each enemy unit within 6\" of this model: on a 4+, that unit suffers 1 mortal wound."
+  },
+  {
+    "phase": "MOVEMENT",
+    "name": "Harbinger of Destruction",
+    "description": "At the end of your Movement phase, if this model did not Fall Back that phase, roll three D6s: for each 4+, the closest enemy unit within 24\" of and visible to this model suffers 1 mortal wound."
+  },
+  {
+    "phase": "MORALE",
+    "name": "Harbinger of Despair",
+    "description": "In your Morale phase, you can select one enemy unit within 12\" of this model and roll 3D6: if the result is greater than the enemy unit's Leadership characteristic, select one of the results below to take effect until the start of your next Morale phase. Each unit can only be selected for this ability once per phase.\n* The selected unit cannot perform actions (if that unit is currently performing an action, it immediately fails).\n* The selected unit loses the Objective Secured ability.\n* Halve Advance rolls and charge rolls made for the selected unit.\n* The selected unit cannot fire Overwatch or Set to Defend, and is not eligible to fight in the Fight phase until after all eligible units from your army have done so."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Adaptive Strategy",
+    "description": "In your Command phase, you can select one friendly <DYNASTY> CORE unit within 9\" of this model. Until the end of the turn, that unit is eligible to shoot and declare a charge with in a turn in which they Fell Back."
+  },
+  {
+    "phase": "DEPLOYMENT",
+    "name": "Ancient Collector",
+    "description": "If this model is included in your army, the Dynastic Heirlooms Stratagem costs 1 fewer Command points to use the first time you use it. If this model is included in your Crusade force, the Relic Requisition costs 0 Requisition points to use.\n"
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Surrogate Hosts",
+    "description": "When this model is destroyed, instead of using any other rule that is triggered when a model is destroyed, after removing it from play you can roll one D6: on a 2+, you can select another friendly NECRONS INFANTRY CHARACTER model on the battlefield [excluding named characters). Remove that model as if it were destroyed (you cannot use any rules that are triggered when a model is destroyed) and return this model to play, placing it in the removed model's place with 3 wounds remaining."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Quantum Shielding",
+    "description": "This model has a 5+ invulnerable save. In addition, each time an attack is made against this model, an unmodified wound roll of 1-3 always fails, irrespective of any abilities that the weapon or the attacker may have."
+  },
+  {
+    "phase": "ANYTIME",
+    "name": "Hovering",
+    "description": "Distances are measured to and from either this model's hull or its base, whichever is the closest."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Repair Barge",
+    "description": "In your Command phase, you can select one friendly <DYNASTY> NECRON WARRIORS unit within 6\" of this model. If you do, up to D3 destroyed models from that unit Reanimate. Each unit can only be selected for this ability once per phase."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Explodes",
+    "description": "When this transport is destroyed, roll one D6 before any embarked models disembark and before removing it from play. On a 6 it explodes, and each unit within 6\" suffers D3 mortal wounds."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Necrodermis",
+    "description": "This model has a 4+ invulnerable save. In addition, this model cannot lose more than 3 wounds in the same phase. Any wounds that would be lost after that point are not lost."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Enslaved Star God",
+    "description": "This model can never have a Relic or a Warlord Trait. In addition, enemy models can ignore the Look Out, Sir rule when selecting this model as the target of a ranged attack."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Reality Unravels",
+    "description": "When this model is destroyed, roll one D6 before removing it from play. On a 4+ it explodes, and each unit within 6\" suffers D3 mortal wounds."
+  },
+  {
+    "phase": "COMBAT",
+    "name": "Drain Life",
+    "description": "Each time this model makes a melee attack that is allocated to an enemy model, that enemy model cannot use any rules to ignore the wounds it loses."
+  },
+  {
+    "phase": "DEALT_DAMAGE",
+    "name": "Matter Absorption",
+    "description": "At the end of each phase, roll one D6 for each enemy VEHICLE model destroyed as a result of an attack made by this model or a C’tan Power used by this model that phase: for each 2+, this model regains 1 lost wound (to a maximum of 3 regained wounds per phase).\n"
+  },
+  {
+    "phase": "DEPLOYMENT",
+    "name": "Dimensional Translocation",
+    "description": "During deployment, you can set up this unit in a hyperspace dimension instead of setting it up on the battlefield. If you do, then in the Reinforcements step of one of your Movement phases, you can set up this unit anywhere on the battlefield that is more than 9\" away from any enemy models."
+  },
+  {
+    "phase": "DEPLOYMENT",
+    "name": "Viral Construct",
+    "description": "If your army is Battle-forged, then for each <DYNASTY> DESTROYER CULT unit included in a Detachment, one <DYNASTY> CANOPTEK PLASMACYTE unit can be included in that Detachment without taking up a Battlefield Role slot. You cannot include more <DYNASTY> CANOPTEK PLASMACYTE units in a Detachment than there are <DYNASTY> DESTROYER CULT units in that Detachment."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Evasion Protocol",
+    "description": "While this model is within 3\" of a friendly <DYNASTY> DESTROYER CULT unit, enemy models cannot target this model with ranged weapons unless it is the closest eligible target. In addition, this unit cannot perform actions."
+  },
+  {
+    "phase": "MORALE",
+    "name": "Recall Protocol",
+    "description": "In the Unit Coherency Checks step of the Morale phase, if this model is not within 6\" of any friendly <DYNASTY> DESTROYER CULT units, this model is destroyed."
+  },
+  {
+    "phase": "COMBAT",
+    "name": "Infused Madness",
+    "description": "Once per turn, at the start of either your Charge phase or the Fight phase, you can select one friendly <DYNASTY> DESTROYER CULT unit within 3\" of this model. If you do, roll one D6: on a 1, one model in that unit is destroyed. Regardless of the result, until the end of the turn, add 1 to the Strength and Attacks characteristics of models in that unit. Each unit can only be selected for this ability once per turn."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Nanoscarab Reanimation Beam (Aura)",
+    "description": "In your Command phase, you can select one friendly <DYNASTY> unit within 6\" of and visible to this model. Until the start of your next Command phase, while that unit is within 6\" of and visible to this model, that unit is being healed by this model's reanimation beam. While a unit is being healed by a reanimation beam, add 1 to Reanimation Protocol rolls made for that unit. Each unit can only ever be healed by one reanimation beam at a time."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Scarab Hive",
+    "description": "In your Command phase, one destroyed model from each friendly <DYNASTY> CANOPTEK SCARAB SWARM unit within 6\" of this unit is Reanimated. Each unit can only be affected by this ability once per phase.\n"
+  },
+  {
+    "phase": "DEALT_DAMAGE",
+    "name": "Flesh Hunger",
+    "description": "Each time a model in this unit makes a melee attack against an enemy non-VEHICLE unit, an unmodified hit roll of 6 scores 1 additional hit."
+  },
+  {
+    "phase": "OPPONENT_MORALE",
+    "name": "Terrifying Foes (Aura)",
+    "description": "While an enemy unit is within 3\" of this unit, subtract 2 from the Leadership characteristic of models in that unit.\n"
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "Inescapable Death",
+    "description": "Each time this model makes a ranged attack, you can ignore any or all hit roll and Ballistic Skill modifiers, and the target does not receive the benefits of cover against that attack. In addition, each time this model fires Overwatch, it scores hits on unmodified hit rolls of 2+, instead of 6."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "Multi-threat Eliminator",
+    "description": "Each time an enemy model is destroyed by a ranged attack made by this model's enmitic disintegrator pistols, after this model makes the rest of its attacks, it can shoot with one of its enmitic disintegrator pistols one additional time. These attacks cannot generate additional attacks."
+  },
+  {
+    "phase": "DEALT_DAMAGE",
+    "name": "Hardwired for Destruction",
+    "description": "Each time this model makes an attack, re-roll a hit roll of 1."
+  },
+  {
+    "phase": "OPPONENT_PSYKER",
+    "name": "Noctilith Beacons",
+    "description": "In your opponent's Psychic phase, Szarekh can attempt to deny one psychic power as if he were a PSYKER."
+  },
+  {
+    "phase": "COMBAT",
+    "name": "Obeisance Generators",
+    "description": "At the start of the Fight phase, if there any enemy units within Engagement Range of Szarekh, then until the end of the phase, those units cannot fight until after all other eligible units from your army have done so."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "Phaeron of the Stars (Aura)",
+    "description": "While a friendly NECRONS CORE unit or TRIARCH PRAETORIANS unit is within 6\" of Szarekh, each time a ranged attack is made by a model in that unit, you can re-roll the hit roll."
+  },
+  {
+    "phase": "COMBAT",
+    "name": "Phaeron of the Blades (Aura)",
+    "description": "While a friendly NECRONS CORE unit or TRIARCH PRAETORIANS unit is within 6\" of Szarekh, each time a melee attack is made by a model in that unit, you can re-roll the wound roll."
+  },
+  {
+    "phase": "MOVEMENT",
+    "name": "Relentless March (Aura)",
+    "description": "While a friendly NECRONS CORE or TRIARCH PRAETORIANS unit is within 6\" of Szarekh, each time that unit is selected to make a Normal Move or Advance, until the end of the phase, add 1\" to the Move characteristic of models in that unit."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Phaeron",
+    "description": "This model can use its My Will Be Done ability one additional time per turn."
+  },
+  {
+    "phase": "COMMAND",
+    "name": "Voice of the Triarch",
+    "description": "Once per battle, at the start of any battle round, if Szarekh is on the battlefield he can alter your command protocols. If he does, one command protocol that you did not assign to any battle rounds before the battle becomes active for your army for that battle round, instead of the one that you assigned to it."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Triarchal Menhir",
+    "description": "While this unit contains any Triarchal Menhirs models, it does not count as a CHARACTER for the purposes of the Look Out, Sir rule and each time an attack successfully wounds this unit, that attack must be allocated to one of those models. The destruction of Triarchal Menhirs is ignored for the purposes of Morale tests. If Szarekh is ever destroyed, any remaining Triarchal Menhirs in this unit are also destroyed."
+  },
+  {
+    "phase": "DEPLOYMENT",
+    "name": "The Silent King",
+    "description": "If your army is Battle-forged, Szarekh must be your army's WARLORD. You receive 3 additional Command points if Szarekh is your WARLORD."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Transtemporal Force Field",
+    "description": "Models in this unit have a 4+ invulnerable save."
+  },
+  {
+    "phase": "ANYTIME",
+    "name": "Preservative Auto-torpor",
+    "description": "If Szarekh has 8 or fewer wounds remaining, it cannot make attacks with its Staff of Stars and loses the Phaeron of the Stars ability. If Szarekh has 4 or fewer wounds remaining, it cannot make attacks with its Scythe of Dust and loses the Phaeron of the Blades ability."
+  },
+  {
+    "phase": "SLAIN_MODEL",
+    "name": "Vengeance of the Enchained",
+    "description": "When Szarekh is destroyed, roll one D6 before removing it from play. On a 4+ it explodes, and each unit within 2D6\" suffers D6 mortal wounds."
+  },
+  {
+    "phase": "DEPLOYMENT",
+    "name": "Convergence of Dominion",
+    "description": "When this unit is first set up on the battlefield, its models do not have to be set up in unit coherency. Instead, each model must be set up wholly within 12\" of one other model from its unit. From that point on, each model in this unit is treated as a separate unit."
+  },
+  {
+    "phase": "MORALE",
+    "name": "Dominion Protocols (Aura)",
+    "description": "While a friendly <DYNASTY> CORE unit is within 6\" of this model, add 2 to the Leadership characteristic of models in that unit."
+  },
+  {
+    "phase": "ANYTIME",
+    "name": "Dynastic Command Node",
+    "description": "While a command protocol is active for your army, friendly units with the Command Protocols ability that are within 6\" of this model benefit from the selected directive(s) of the active command protocol."
+  },
+  {
+    "phase": "MOVEMENT",
+    "name": "Translocation Protocols",
+    "description": "While there are any STARSTELE units from your army on the battlefield, CRYPTEK units in your army can attempt the following action: ‘Activate Trans location Protocols (Action): At the end of your Movement phase, one friendly CRYPTEK unit from your army that is within 3\" of any friendly STARSTELE units can start to perform this action. The action is completed at the end of your turn. Once completed, select one of those STARSTELE units and remove it from the battlefield; in the Reinforcements step of your next Movement phase, set that STARSTELE unit back up on the battlefield, anywhere that is more than 9\" away from any enemy models. If the battle ends and that STARSTELE unit is not on the battlefield, it is destroyed.’"
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "C'TAN - COSMIC INSANITY",
+    "description": "The C'tan Shard of the Deceiver uses it powers to flood his victims' minds with vast and terrible cosmic truths, overwhelming even the most ironclad minds and driving them instantly and irrevocably insane.\n\nSelect one enemy unit within 12\" of and visible to this C'TAN SHARD. Roll one D6 and add this C'TAN SHARD's Leadership characteristic to the result. Your opponent then rolls one D6 and adds the Leadership characteristic of the selected unit to the result. That enemy unit suffers 1 mortal wound for each point by which your total exceeds your opponent's."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "C'TAN - GAZE OF DEATH",
+    "description": "Dark energies leap from the Shard's eyes and its distended maw, reducing foes to blackened bones crawling with frost.\n\nSelect one enemy unit within 9\" of and visible to this C'TAN SHARD. Roll three D6s: for each 4+, that unit suffers D3 mortal wounds."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "C'TAN - VOLTAIC STORM",
+    "description": "When this C'tan points one imperious hand, foes reel as the air sings with a monstrous whine. The awful sound builds, then erupts into a sudden and ferocious storm of emerald lightning to annihilate all it touches.\n\nSelect one enemy unit within 18\" of and visible to this C'tan Shard (an enemy CHARACTER unit with a Wounds characteristic of 9 or less cannot be selected for this power while it is within 3\" of another enemy unit, unless that CHARACTER unit is the closest visible enemy unit). Roll one D6: on a 2+, that unit suffers D3 mortal wounds (it suffers D6 mortal wounds instead if it has the VEHICLE keyword) and, until the start of your next turn, if that unit is a VEHICLE whose characteristics change as it loses wounds, then it halves the number of wounds it has remaining when determining what characteristics to use."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "C'TAN - ANTIMATTER METEOR",
+    "description": "This C'tan Shard gathers an orb of roiling antimatter, before hurling the crackling projectile into the midst of the foe.\n\nRoll one D6, adding 1 to the roll if this C'TAN SHARD is a TESSERACT VAULT: on a 3-5, the closest enemy unit that is within 24\" of and visible to this C'TAN SHARD suffers 3 mortal wounds; on a 6+, that enemy unit suffers D3+3 mortal wounds."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "C'TAN - TIME’S ARROW",
+    "description": "Twisting the flow of causality and remoulding temporal streams, this C'tan Shard erases its foe's existence from space and time.\n\nSelect one enemy unit within 18\" of and visible to this C'TAN SHARD. Roll one D6, adding 1 to the roll if this C'TAN SHARD is a TESSERACT VAULT: if the total equals or exceeds the Wounds characteristic of any models in that enemy unit, your opponent selects one of those models to be destroyed."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "C'TAN - SKY OF FALLING STARS",
+    "description": "Savagely beautiful spheres of coruscating light plummet from the cold depths of space, growing to roaring bale-stars as they approach, then impacting with killing force.\n\nSelect up to three enemy units within 24\" of this C'TAN SHARD. For each of those units, roll one D6: on a 1-5, if the dice result is less than the number of models in that unit, that unit suffers D3 mortal wounds. If this C'TAN SHARD is a TESSERACT VAULT, that unit suffers 3 mortal wounds from this power, instead of D3."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "C'TAN - COSMIC FIRE",
+    "description": "At this C'tan Shard's gestured command, a pillar of black fire streaks down from the heavens to consume the foe.\n\nRoll one D6 for each enemy unit within 9\" of this C'TAN SHARD: on a 4+, that unit suffers D3 mortal wounds. If this C'TAN SHARD is a TESSERACT VAULT, units suffer 3 mortal wounds from this power, instead of D3."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "C'TAN - SEISMIC ASSAULT",
+    "description": "Stone fractures and ores melt as the C'tan Shard drags up tides of magma from deep below. Foes are plunged screaming into steamgushing vents as the land shatters beneath them, while tectonic shock waves hurl others from their feet with bone-breaking force.\n\nSelect one enemy unit within 18\" of and visible to this C'TAN SHARD. Roll one D6 for each model in that unit, adding 1 to the roll if this C'TAN SHARD is a TESSERACT VAULT: for each 6+, that unit suffers 1 mortal wound, to a maximum of 10 mortal wounds."
+  },
+  {
+    "phase": "SHOOTING",
+    "name": "C'TAN - TRANSDIMENSIONAL THUNDERBOLT",
+    "description": "The C'tan Shard projects a crackling bolt of energy from its outstretched palm, blasting its foe into oblivion.\n\nSelect one enemy unit within 24\" of and visible to this C'TAN SHARD (an enemy CHARACTER unit with a Wounds characteristic of 9 or less cannot be selected for this power while it is within 3\" of another enemy unit, unless that CHARACTER unit is the closest visible enemy unit). Roll one D6: on a 2+, that unit suffers D3 mortal wounds. Then, roll one D6 for each other enemy unit within 3\" of the selected unit: on a 4+, that unit suffers 1 mortal wound. If this C'TAN SHARD is a TESSERACT VAULT, roll for each other enemy unit within 6\" of the selected unit, instead of 3\"."
+  }
+]

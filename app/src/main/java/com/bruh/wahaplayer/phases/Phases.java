@@ -1,0 +1,23 @@
+package com.bruh.wahaplayer.phases;
+
+public enum Phases {
+    DEPLOYMENT,
+    COMMAND,
+    MOVEMENT,
+    PSYCKER,
+    SHOOTING,
+    ATTACK,
+    COMBAT,
+    MORALE,
+    OPPONENT_COMMAND,
+    OPPONENT_MOVEMENT,
+    OPPONENT_PSYCKER,
+    OPPONENT_SHOOTING,
+    OPPONENT_ATTACK,
+    OPPONENT_COMBAT,
+    OPPONENT_MORALE,
+    ANYTIME,
+    SLAIN_MODEL,
+    DEALT_DAMAGE
+};
+
