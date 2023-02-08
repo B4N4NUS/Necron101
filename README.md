@@ -1,6 +1,8 @@
 # Necron101
 App to handle basic rules for every model in necron armies in 9th edition of Warhammer40k
 
+
+
 ## Search tab
 ![image](https://user-images.githubusercontent.com/71143870/217523795-6a352701-c96b-4fa7-9fbf-3d3e7605938a.png)
 
@@ -13,12 +15,15 @@ You can press on each rule to get it's full description
 ![image](https://user-images.githubusercontent.com/71143870/217523973-2a00f528-234e-4f14-b397-c7a6ddbcda5a.png)
 
 
+
 ## Roaster tab
 ![image](https://user-images.githubusercontent.com/71143870/217524329-3b98cef9-3f3a-4e38-afa2-7eeb3686deae.png)
 
 Select models from your army to get their rules in "Rules" tab
 
 ![image](https://user-images.githubusercontent.com/71143870/217524783-1e7c9386-37ca-4959-be51-37a4ace8ec3b.png)
+
+
 
 ## Protocols tab
 ![image](https://user-images.githubusercontent.com/71143870/217524854-0dbecee8-e857-49b7-8a06-e3a323dde7f8.png)
@@ -30,6 +35,8 @@ You can optionally select up to 5 command protocols in order from 1 to 5
 Pressing symbol on the right of protocol name would open a description
 
 ![image](https://user-images.githubusercontent.com/71143870/217526492-ba478613-1a6f-4469-bef8-cfb4050944ea.png)
+
+
 
 
 ## Rules tab
@@ -44,6 +51,8 @@ Above application tabs you can find current phase name and 2 buttons. Left butto
 ![image](https://user-images.githubusercontent.com/71143870/217526883-9702ab77-8f65-4bb6-8467-3fc9338f8cb8.png)
 
 
+
+
 ## Intended workflow
 Select models on roaster tab and also select your protocols. Next to go rules tab and use its rules to acknowledge your models hidden potencial
 
@@ -53,18 +62,14 @@ If your model got slain, go to roaster tab and deselect it
 
 
 
+
+
 ## Necrontyr ancient language translator matrix
 Mostly all text in this app is animated like this:
 
-
 https://user-images.githubusercontent.com/71143870/217530362-c53c3269-7572-40d6-ac1e-8674589a43e5.mp4
 
-
-
 https://user-images.githubusercontent.com/71143870/217530764-10fd9766-0a86-43cf-907f-0905a2045b3f.mp4
-
-
-
 
 If you dont want to wait until animation is over, you can press on text and it would automatically cancel animation
 
