@@ -60,7 +60,11 @@ Mostly all text in this app is animated like this:
 https://user-images.githubusercontent.com/71143870/217530362-c53c3269-7572-40d6-ac1e-8674589a43e5.mp4
 
 
-https://user-images.githubusercontent.com/71143870/217530406-6e0a0cc6-e05c-4736-884e-5dceea0daa27.mp4
+
+https://user-images.githubusercontent.com/71143870/217530764-10fd9766-0a86-43cf-907f-0905a2045b3f.mp4
+
+
+
 
 If you dont want to wait until animation is over, you can press on text and it would automatically cancel animation
 
