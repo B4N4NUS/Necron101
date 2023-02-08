@@ -1,4 +1,5 @@
-# FactionRules
+# Necron101
+App to handle basic rules for every model in necron armies in 9th edition of Warhammer40k
 
 ## Search tab
 ![image](https://user-images.githubusercontent.com/71143870/217523795-6a352701-c96b-4fa7-9fbf-3d3e7605938a.png)
@@ -49,6 +50,22 @@ Select models on roaster tab and also select your protocols. Next to go rules ta
 If you need stats for model, navigate to search tab and find your model description
 
 If your model got slain, go to roaster tab and deselect it
+
+
+
+## Necrontyr ancient language translator matrix
+Mostly all text in this app is animated like this:
+
+
+https://user-images.githubusercontent.com/71143870/217530362-c53c3269-7572-40d6-ac1e-8674589a43e5.mp4
+
+
+https://user-images.githubusercontent.com/71143870/217530406-6e0a0cc6-e05c-4736-884e-5dceea0daa27.mp4
+
+If you dont want to wait until animation is over, you can press on text and it would automatically cancel animation
+
+https://user-images.githubusercontent.com/71143870/217530616-304c1e2e-53d3-4d16-bdfa-76afe3432019.mp4
+
 
 
 ## Known issues
